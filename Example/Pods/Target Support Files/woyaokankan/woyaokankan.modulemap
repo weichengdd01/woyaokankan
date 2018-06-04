@@ -1,0 +1,6 @@
+framework module woyaokankan {
+  umbrella header "woyaokankan-umbrella.h"
+
+  export *
+  module * { export * }
+}
