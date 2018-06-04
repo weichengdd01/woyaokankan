@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 就是不想写这个啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
                        DESC
 
-  s.homepage         = 'https://github.com/cwsqrs/woyaokankan'
+  s.homepage         = 'https://github.com/weichengdd01/woyaokankan'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'cwsqrs' => 'weicheng@hk01.com' }
